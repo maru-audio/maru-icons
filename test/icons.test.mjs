@@ -266,3 +266,21 @@ test("every icon has explicit license scope without imposing Maru terms on upstr
     if (icon.brandAsset) assert.equal(entry.trademarkFile, "TRADEMARKS.md")
   }
 })
+
+test("README PNG preview contains every icon once and has the expected image dimensions", async () => {
+  const { previewSvg } = await import("../scripts/generate-preview.mjs")
+  const { default: sharp } = await import("sharp")
+  const svg = previewSvg(iconCatalog, iconToSvg)
+  const ids = [...svg.matchAll(/data-icon="([^"]+)"/g)].map((match) => match[1])
+  assert.deepEqual(
+    ids,
+    iconCatalog.map((icon) => icon.name)
+  )
+  assert.equal(new Set(ids).size, iconCatalog.length)
+  const image = await sharp(
+    new URL("../icons-preview.png", import.meta.url).pathname
+  ).metadata()
+  assert.equal(image.format, "png")
+  assert.equal(image.width, 2816)
+  assert.equal(image.height, (Math.ceil(iconCatalog.length / 14) * 80 + 64) * 2)
+})

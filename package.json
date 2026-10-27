@@ -32,7 +32,8 @@
     "LICENSING.md",
     "TRADEMARKS.md",
     "CONTRIBUTING.md",
-    "MARU_audio.webp"
+    "MARU_audio.webp",
+    "icons-preview.png"
   ],
   "publishConfig": {
     "access": "public"
@@ -53,7 +54,8 @@
     "build": "node scripts/generate.mjs && tsc -p tsconfig.json",
     "typecheck": "tsc -p tsconfig.json --noEmit",
     "test": "node --test test/*.test.mjs",
-    "prepack": "pnpm build && pnpm test"
+    "prepack": "pnpm build && pnpm test",
+    "preview": "node scripts/generate-preview.mjs"
   },
   "peerDependencies": {
     "react": "^18.0.0 || ^19.0.0"
@@ -68,6 +70,7 @@
     "@types/react-dom": "^19.2.4",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
+    "sharp": "^0.34.5",
     "typescript": "^6"
   },
   "repository": {

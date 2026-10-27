@@ -11,6 +11,7 @@ import {
   brandText,
 } from "./brand-source.mjs"
 import { resolveBrandIcon } from "./brand-icons.mjs"
+import { generatePreview } from "./generate-preview.mjs"
 
 const root = new URL("../", import.meta.url)
 const icons = JSON.parse(readFileSync(new URL("icons.json", root), "utf8")).map(
@@ -188,6 +189,12 @@ const { iconToSvg } = await import(
 )
 for (const icon of icons)
   write(`dist/svg/${icon.name}.svg`, iconToSvg(icon) + "\n")
+await generatePreview({
+  icons,
+  iconToSvg,
+  target: new URL("icons-preview.png", root),
+  check,
+})
 console.log(
   `${check ? "Checked" : "Generated"} ${icons.length} Maru Icons (${fileURLToPath(root)})`
 )

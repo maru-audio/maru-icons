@@ -9,6 +9,8 @@ Source and contributions: [maru-audio/maru-icons](https://github.com/maru-audio/
 
 Browse and customize the collection at [PluginUI](https://pluginui.com/icons).
 
+![Preview of every icon in the Maru Icons collection](./icons-preview.png)
+
 ## Install
 
 ```sh
@@ -61,6 +63,10 @@ For format-specific builds, see [packaging and releasing plugins](https://maru.a
 In a clone of the source repository, use Node.js 24 and pnpm. Run `pnpm install`,
 `pnpm build`, `pnpm test` and `pnpm typecheck`. Geometry and metadata live in `icons.json`; the build generates
 React components and SVGs. Brand assets in `assets/brand/` are managed projections.
+Run `pnpm preview` to regenerate `icons-preview.png` from the complete icon
+catalog. The normal build does this too; add an icon and rebuild to update the
+preview automatically. Sharp is used only for development, not at runtime.
+
 README content lives in `github/README.md`; the build generates the root README
 shared by GitHub and npm.
 
