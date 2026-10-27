@@ -1,0 +1,8 @@
+dist/
+node_modules/
+.pnpm-store/
+*.tgz
+.env
+.env.*
+.npmrc
+.DS_Store

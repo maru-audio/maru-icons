@@ -1,0 +1,77 @@
+Maru Icons License 1.1
+
+© 2026 Maru Audio. All rights reserved.
+
+1. Scope and ownership
+
+This license covers original Maru code, documentation and icon artwork in this
+package (the "Maru Work"). Copyright remains with Maru Audio and the respective
+contributors. It does not cover third-party artwork identified in icons.json
+or the generated licenses/ICON-LICENSES.json. Third-party rights are described
+in section 5. The Maru brand marks are also subject to section 6.
+
+2. Permitted use, redistribution and resale
+
+Subject to these terms, you may use, copy, modify, merge, publish, distribute,
+sublicense and sell the Maru Work and adaptations of it, in source or compiled
+form, for personal and commercial purposes. This includes apps, websites, audio
+plugins, icon packs, UI kits, component libraries, template kits and frameworks,
+including paid bundles, subscriptions and other paid access. No separate
+permission, royalty or contact with Maru Audio is required for these uses.
+The copyright notices and trademark provisions still apply.
+
+3. Community invitation (not a license condition)
+
+If you plan to include Maru Icons in a kit or framework, or resell the collection,
+we encourage you to contact Maru Audio. We would love to hear about your project
+and help this collection benefit the community. Sharing improvements upstream
+is welcome too.
+
+Contact and contribution are entirely optional. They are not conditions of this
+license, and you do not need approval, a response or a separate agreement to
+exercise the permissions in section 2. This invitation does not grant trademark
+rights or waive the notice requirements below.
+
+4. Notices and downstream terms
+
+Retain this license and applicable copyright notices in copies or substantial
+portions of the Maru Work, including modified copies. Identify modifications
+without presenting them as official Maru releases. You may distribute products,
+kits, frameworks and collections under your own terms, but those terms must not claim ownership
+of the Maru Work or grant rights to it beyond this license. This license does
+not require public source disclosure, an on-screen credit or upstream
+contribution of modifications.
+
+5. Third-party artwork
+
+Icons identified with source.library = "lucide" in the catalog retain the
+Lucide ISC license and, where applicable, the Feather MIT license. Their full
+copyright, permission and warranty notices are in licenses/lucide-LICENSE.
+Those licenses permit redistribution with or without a fee. Nothing in this
+license restricts the rights they independently grant, or claims exclusivity
+in that third-party artwork. Retain those upstream notices. The original Maru
+renderer and other Maru-authored code remain covered by this license even when
+they display third-party artwork; the artwork itself retains its upstream terms.
+
+6. Brand marks
+
+Maru™, the Maru logo (MaruLogoIcon) and Maru Wave (MaruWaveIcon) are trademarks
+of Maru Audio. No trademark rights are granted. The general permission to use
+icons does not authorize using these marks as your own brand or suggesting
+Maru sponsorship, affiliation or endorsement. Accurate reference to Maru is
+permitted as described in TRADEMARKS.md, subject to rights under applicable law.
+
+7. Earlier permissions and other rights
+
+These terms do not revoke valid permissions previously granted for earlier
+copies, restrict rights granted by third-party licenses, or limit rights that
+applicable law provides independently of this license. You may not grant
+exclusive rights to work owned by others. Rights not granted here are reserved.
+
+8. Warranty and liability
+
+THE MARU WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDERS
+AND CONTRIBUTORS ARE NOT LIABLE FOR CLAIMS, DAMAGES OR OTHER LIABILITY ARISING
+FROM THE MARU WORK OR ITS USE, WHETHER IN CONTRACT, TORT OR OTHERWISE.

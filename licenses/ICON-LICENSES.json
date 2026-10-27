@@ -1,0 +1,2137 @@
+[
+  {
+    "id": "sine-wave",
+    "componentName": "SineWaveIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "triangle-wave",
+    "componentName": "TriangleWaveIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "saw-wave",
+    "componentName": "SawWaveIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "square-wave",
+    "componentName": "SquareWaveIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "pulse-wave",
+    "componentName": "PulseWaveIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "noise",
+    "componentName": "NoiseIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "sample-hold",
+    "componentName": "SampleHoldIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "adsr-envelope",
+    "componentName": "AdsrEnvelopeIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "ar-envelope",
+    "componentName": "ArEnvelopeIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "lfo",
+    "componentName": "LfoIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "modulation",
+    "componentName": "ModulationIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "low-pass-filter",
+    "componentName": "LowPassFilterIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "high-pass-filter",
+    "componentName": "HighPassFilterIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "band-pass-filter",
+    "componentName": "BandPassFilterIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "notch-filter",
+    "componentName": "NotchFilterIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "bell-eq",
+    "componentName": "BellEqIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "low-shelf-eq",
+    "componentName": "LowShelfEqIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "high-shelf-eq",
+    "componentName": "HighShelfEqIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "knob",
+    "componentName": "KnobIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "bipolar-knob",
+    "componentName": "BipolarKnobIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "fader",
+    "componentName": "FaderIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "step-sequencer",
+    "componentName": "StepSequencerIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "mono",
+    "componentName": "MonoIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "stereo",
+    "componentName": "StereoIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "split-signal",
+    "componentName": "SplitSignalIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "merge-signal",
+    "componentName": "MergeSignalIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "midi-din",
+    "componentName": "MidiDinIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "compressor",
+    "componentName": "CompressorIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "limiter",
+    "componentName": "LimiterIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "saturation",
+    "componentName": "SaturationIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "delay",
+    "componentName": "DelayIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "reverb",
+    "componentName": "ReverbIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "headphones",
+    "componentName": "HeadphonesIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "headphones",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "headphone-off",
+    "componentName": "HeadphoneOffIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "headphone-off",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "speaker",
+    "componentName": "SpeakerIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "speaker",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "mic",
+    "componentName": "MicIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "mic",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "mic-off",
+    "componentName": "MicOffIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "mic-off",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "radio",
+    "componentName": "RadioIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "radio",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "ear",
+    "componentName": "EarIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "ear",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "ear-off",
+    "componentName": "EarOffIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "ear-off",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "volume",
+    "componentName": "VolumeIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "volume",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "volume-1",
+    "componentName": "Volume1Icon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "volume-1",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "volume-2",
+    "componentName": "Volume2Icon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "volume-2",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "volume-x",
+    "componentName": "VolumeXIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "volume-x",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "bluetooth",
+    "componentName": "BluetoothIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "bluetooth",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "usb",
+    "componentName": "UsbIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "usb",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "cable",
+    "componentName": "CableIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "cable",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "plug",
+    "componentName": "PlugIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "plug",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "unplug",
+    "componentName": "UnplugIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "unplug",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "piano",
+    "componentName": "PianoIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "piano",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "guitar",
+    "componentName": "GuitarIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "guitar",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "drum",
+    "componentName": "DrumIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "drum",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "music",
+    "componentName": "MusicIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "music",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "list-music",
+    "componentName": "ListMusicIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "list-music",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "disc-3",
+    "componentName": "Disc3Icon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "disc-3",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "boom-box",
+    "componentName": "BoomBoxIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "boom-box",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "play",
+    "componentName": "PlayIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "play",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "pause",
+    "componentName": "PauseIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "pause",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "stop",
+    "componentName": "StopIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "square",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "record",
+    "componentName": "RecordIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "circle",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "skip-back",
+    "componentName": "SkipBackIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "skip-back",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "skip-forward",
+    "componentName": "SkipForwardIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "skip-forward",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "rewind",
+    "componentName": "RewindIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "rewind",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "fast-forward",
+    "componentName": "FastForwardIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "fast-forward",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "repeat",
+    "componentName": "RepeatIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "repeat",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "repeat-1",
+    "componentName": "Repeat1Icon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "repeat-1",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "shuffle",
+    "componentName": "ShuffleIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "shuffle",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "metronome",
+    "componentName": "MetronomeIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "metronome",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "timer",
+    "componentName": "TimerIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "timer",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "sliders-horizontal",
+    "componentName": "SlidersHorizontalIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "sliders-horizontal",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "sliders-vertical",
+    "componentName": "SlidersVerticalIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "sliders-vertical",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "scissors",
+    "componentName": "ScissorsIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "scissors",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "undo-2",
+    "componentName": "Undo2Icon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "undo-2",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "redo-2",
+    "componentName": "Redo2Icon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "redo-2",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "save",
+    "componentName": "SaveIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "save",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "download",
+    "componentName": "DownloadIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "download",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "upload",
+    "componentName": "UploadIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "upload",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "power",
+    "componentName": "PowerIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "power",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "library",
+    "componentName": "LibraryIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "library",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "audio-lines",
+    "componentName": "AudioLinesIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "audio-lines",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "audio-waveform",
+    "componentName": "AudioWaveformIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "audio-waveform",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "info",
+    "componentName": "InfoIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "info",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "circle-help",
+    "componentName": "CircleHelpIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "circle-question-mark",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "ellipsis",
+    "componentName": "EllipsisIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "ellipsis",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "ellipsis-vertical",
+    "componentName": "EllipsisVerticalIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "ellipsis-vertical",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "menu",
+    "componentName": "MenuIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "menu",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "search",
+    "componentName": "SearchIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "search",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "plus",
+    "componentName": "PlusIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "plus",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "minus",
+    "componentName": "MinusIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "minus",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "x",
+    "componentName": "XIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "x",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "check",
+    "componentName": "CheckIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "check",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "copy",
+    "componentName": "CopyIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "copy",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "external-link",
+    "componentName": "ExternalLinkIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "external-link",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "link-2",
+    "componentName": "Link2Icon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "link-2",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "settings",
+    "componentName": "SettingsIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "settings",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "settings-2",
+    "componentName": "Settings2Icon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "settings-2",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "code-xml",
+    "componentName": "CodeXmlIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "code-xml",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "terminal",
+    "componentName": "TerminalIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "terminal",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "hash",
+    "componentName": "HashIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "hash",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "sparkles",
+    "componentName": "SparklesIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "sparkles",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "heart",
+    "componentName": "HeartIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "heart",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "star",
+    "componentName": "StarIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "star",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "globe",
+    "componentName": "GlobeIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "globe",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "languages",
+    "componentName": "LanguagesIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "languages",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "arrow-right",
+    "componentName": "ArrowRightIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "arrow-right",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "arrow-left",
+    "componentName": "ArrowLeftIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "arrow-left",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "arrow-up",
+    "componentName": "ArrowUpIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "arrow-up",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "arrow-down",
+    "componentName": "ArrowDownIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "arrow-down",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "arrow-up-right",
+    "componentName": "ArrowUpRightIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "arrow-up-right",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "chevron-right",
+    "componentName": "ChevronRightIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "chevron-right",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "chevron-left",
+    "componentName": "ChevronLeftIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "chevron-left",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "chevron-down",
+    "componentName": "ChevronDownIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "chevron-down",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "chevron-up",
+    "componentName": "ChevronUpIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "chevron-up",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "chevrons-up-down",
+    "componentName": "ChevronsUpDownIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "chevrons-up-down",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "panel-left",
+    "componentName": "PanelLeftIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "panel-left",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "panel-right",
+    "componentName": "PanelRightIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "panel-right",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "layout-grid",
+    "componentName": "LayoutGridIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "layout-grid",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "list",
+    "componentName": "ListIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "list",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "maximize",
+    "componentName": "MaximizeIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "maximize",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "minimize",
+    "componentName": "MinimizeIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "minimize",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "move",
+    "componentName": "MoveIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "move",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "square-stack",
+    "componentName": "SquareStackIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "square-stack",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "layers",
+    "componentName": "LayersIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "layers",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "loader-circle",
+    "componentName": "LoaderCircleIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "loader-circle",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "refresh-cw",
+    "componentName": "RefreshCwIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "refresh-cw",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "rotate-ccw",
+    "componentName": "RotateCcwIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "rotate-ccw",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "triangle-alert",
+    "componentName": "TriangleAlertIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "triangle-alert",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "circle-alert",
+    "componentName": "CircleAlertIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "circle-alert",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "circle-check",
+    "componentName": "CircleCheckIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "circle-check",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "circle-x",
+    "componentName": "CircleXIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "circle-x",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "clock",
+    "componentName": "ClockIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "clock",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "eye",
+    "componentName": "EyeIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "eye",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "eye-off",
+    "componentName": "EyeOffIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "eye-off",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "wifi",
+    "componentName": "WifiIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "wifi",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "wifi-off",
+    "componentName": "WifiOffIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "wifi-off",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "lock",
+    "componentName": "LockIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "lock",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "lock-open",
+    "componentName": "LockOpenIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "lock-open",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "key-round",
+    "componentName": "KeyRoundIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "key-round",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "key",
+    "componentName": "KeyIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "key",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "shield-check",
+    "componentName": "ShieldCheckIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "shield-check",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "shield-alert",
+    "componentName": "ShieldAlertIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "shield-alert",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "file",
+    "componentName": "FileIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "file",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "file-text",
+    "componentName": "FileTextIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "file-text",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "file-music",
+    "componentName": "FileMusicIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "file-music",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "file-audio",
+    "componentName": "FileMaruIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "file-headphone",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "file-code-corner",
+    "componentName": "FileCodeCornerIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "file-code-corner",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "folder",
+    "componentName": "FolderIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "folder",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "folder-open",
+    "componentName": "FolderOpenIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "folder-open",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "folder-plus",
+    "componentName": "FolderPlusIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "folder-plus",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "trash-2",
+    "componentName": "Trash2Icon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "trash-2",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "pencil",
+    "componentName": "PencilIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "pencil",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "image",
+    "componentName": "ImageIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "image",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "camera",
+    "componentName": "CameraIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "camera",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "save-all",
+    "componentName": "SaveAllIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "save-all",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "power-off",
+    "componentName": "PowerOffIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "power-off",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "toggle-left",
+    "componentName": "ToggleLeftIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "toggle-left",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "toggle-right",
+    "componentName": "ToggleRightIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "toggle-right",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "circle-dot",
+    "componentName": "CircleDotIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "circle-dot",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "radio-tower",
+    "componentName": "RadioTowerIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "radio-tower",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "radio-receiver",
+    "componentName": "RadioReceiverIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "radio-receiver",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "scan-line",
+    "componentName": "ScanLineIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "scan-line",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "gauge",
+    "componentName": "GaugeIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "gauge",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "activity",
+    "componentName": "ActivityIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "activity",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "split",
+    "componentName": "SplitIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "split",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "merge",
+    "componentName": "MergeIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "merge",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "network",
+    "componentName": "NetworkIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "network",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "workflow",
+    "componentName": "WorkflowIcon",
+    "license": "Lucide ISC; Feather MIT where applicable",
+    "licenseFiles": [
+      "licenses/lucide-LICENSE"
+    ],
+    "source": {
+      "library": "lucide",
+      "name": "workflow",
+      "version": "1.31.0"
+    }
+  },
+  {
+    "id": "mic-pattern-omni",
+    "componentName": "MicPatternOmniIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "mic-pattern-subcardioid",
+    "componentName": "MicPatternSubcardioidIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "mic-pattern-cardioid",
+    "componentName": "MicPatternCardioidIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "mic-pattern-supercardioid",
+    "componentName": "MicPatternSupercardioidIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "mic-pattern-hypercardioid",
+    "componentName": "MicPatternHypercardioidIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "mic-pattern-figure-eight",
+    "componentName": "MicPatternFigureEightIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "mic-placement-mono",
+    "componentName": "MicPlacementMonoIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "mic-placement-spaced-pair",
+    "componentName": "MicPlacementSpacedPairIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "mic-placement-xy",
+    "componentName": "MicPlacementXyIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "mic-placement-ortf",
+    "componentName": "MicPlacementOrtfIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "mic-placement-mid-side",
+    "componentName": "MicPlacementMidSideIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "mic-placement-blumlein",
+    "componentName": "MicPlacementBlumleinIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "mic-placement-back-to-back",
+    "componentName": "MicPlacementBackToBackIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "maru-logo",
+    "componentName": "MaruLogoIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ],
+    "trademark": true,
+    "trademarkFile": "TRADEMARKS.md"
+  },
+  {
+    "id": "maru-wave",
+    "componentName": "MaruWaveIcon",
+    "license": "Maru Icons License 1.1",
+    "licenseFiles": [
+      "LICENSE"
+    ],
+    "trademark": true,
+    "trademarkFile": "TRADEMARKS.md"
+  }
+]

@@ -1,0 +1,5 @@
+// Generated from icons.json by scripts/generate.mjs. Do not edit.
+/** @license © 2026 Maru Audio. All rights reserved. Licensed under the Maru Icons License; see LICENSE. Use and resale are allowed; contacting Maru is encouraged but optional. */
+import { createMaruIcon } from "../create-icon.js"
+
+export const MicPatternSupercardioidIcon = /* @__PURE__ */ createMaruIcon("MicPatternSupercardioidIcon", [["path",{"d":"M12 4 L10.961 4.111 L9.974 4.438 L9.085 4.963 L8.338 5.657 L7.764 6.479 L7.387 7.387 L7.218 8.33 L7.254 9.26 L7.483 10.129 L7.881 10.896 L8.413 11.528 L9.04 12 L9.718 12.3 L10.401 12.428 L11.047 12.395 L11.619 12.22 L11.914 12.066 L11.573 12.427 L11.368 12.824 L11.298 13.217 L11.351 13.567 L11.506 13.843 L11.734 14.019 L12 14.08 L12.266 14.019 L12.494 13.843 L12.649 13.567 L12.702 13.217 L12.632 12.824 L12.427 12.427 L12.086 12.066 L12.381 12.22 L12.953 12.395 L13.599 12.428 L14.282 12.3 L14.96 12 L15.587 11.528 L16.119 10.896 L16.517 10.129 L16.746 9.26 L16.782 8.33 L16.613 7.387 L16.236 6.479 L15.662 5.657 L14.915 4.963 L14.026 4.438 L13.039 4.111 L12 4 Z"}]])

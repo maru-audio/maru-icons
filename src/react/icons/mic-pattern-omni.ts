@@ -1,0 +1,5 @@
+// Generated from icons.json by scripts/generate.mjs. Do not edit.
+/** @license © 2026 Maru Audio. All rights reserved. Licensed under the Maru Icons License; see LICENSE. Use and resale are allowed; contacting Maru is encouraged but optional. */
+import { createMaruIcon } from "../create-icon.js"
+
+export const MicPatternOmniIcon = /* @__PURE__ */ createMaruIcon("MicPatternOmniIcon", [["path",{"d":"M12 4 L10.956 4.068 L9.929 4.273 L8.939 4.609 L8 5.072 L7.13 5.653 L6.343 6.343 L5.653 7.13 L5.072 8 L4.609 8.939 L4.273 9.929 L4.068 10.956 L4 12 L4.068 13.044 L4.273 14.071 L4.609 15.061 L5.072 16 L5.653 16.87 L6.343 17.657 L7.13 18.347 L8 18.928 L8.939 19.391 L9.929 19.727 L10.956 19.932 L12 20 L13.044 19.932 L14.071 19.727 L15.061 19.391 L16 18.928 L16.87 18.347 L17.657 17.657 L18.347 16.87 L18.928 16 L19.391 15.061 L19.727 14.071 L19.932 13.044 L20 12 L19.932 10.956 L19.727 9.929 L19.391 8.939 L18.928 8 L18.347 7.13 L17.657 6.343 L16.87 5.653 L16 5.072 L15.061 4.609 L14.071 4.273 L13.044 4.068 L12 4 Z"}]])

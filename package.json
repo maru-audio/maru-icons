@@ -1,0 +1,84 @@
+{
+  "name": "maru-icons",
+  "version": "0.0.1",
+  "description": "SVG icons for interfaces and audio tools, with tree-shakable React components.",
+  "type": "module",
+  "license": "SEE LICENSE IN LICENSE",
+  "homepage": "https://pluginui.com/icons",
+  "sideEffects": false,
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./react": {
+      "types": "./dist/react/index.d.ts",
+      "default": "./dist/react/index.js"
+    },
+    "./react/*": {
+      "types": "./dist/react/icons/*.d.ts",
+      "default": "./dist/react/icons/*.js"
+    },
+    "./svg/*": "./dist/svg/*",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "dist",
+    "LICENSE",
+    "README.md",
+    "licenses",
+    "LICENSING.md",
+    "TRADEMARKS.md",
+    "CONTRIBUTING.md",
+    "MARU_audio.webp"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "maru",
+    "icons",
+    "svg",
+    "react",
+    "interface",
+    "audio",
+    "synthesizer",
+    "pluginui"
+  ],
+  "scripts": {
+    "generate": "node scripts/generate.mjs",
+    "generate:check": "node scripts/generate.mjs --check",
+    "build": "node scripts/generate.mjs && tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "node --test test/*.test.mjs",
+    "prepack": "pnpm build && pnpm test"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0 || ^19.0.0"
+  },
+  "peerDependenciesMeta": {
+    "react": {
+      "optional": true
+    }
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "typescript": "^6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maru-audio/maru-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maru-audio/maru-icons/issues"
+  },
+  "author": {
+    "name": "Maru Audio",
+    "url": "https://maru.audio"
+  }
+}
